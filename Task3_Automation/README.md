@@ -19,11 +19,11 @@ python automation.py
 ```
 Enter source folder path: C:\Users\shiva\Desktop\SourceFolder
 Enter destination folder path: C:\Users\shiva\Desktop\DestFolder
-📁 Destination folder exists: C:\Users\shiva\Desktop\DestFolder
-✅ Moved: photo.jpg
-✅ Moved: image.jpeg
+Destination folder exists: C:\Users\shiva\Desktop\DestFolder
+Moved: photo.jpg
+Moved: image.jpeg
 
-🎉 Successfully moved 2 file(s)!
+Successfully moved 2 file(s)!
 ```
 
 ## Technologies Used

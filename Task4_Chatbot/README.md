@@ -15,7 +15,7 @@ python chatbot.py
 
 ## Sample Conversation
 ```
-🤖 Welcome to CodeAlpha Chatbot!
+Welcome to CodeAlpha Chatbot!
 Type 'bye' to exit.
 
 You: hello
