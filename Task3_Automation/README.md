@@ -1,4 +1,4 @@
-# Task 3: Task Automation with Python Scripts
+# Task 3: Task  Automation with Python Scripts
 
 A Python script to automate moving `.jpg` and `.jpeg` files from one folder to another for my CodeAlpha internship.
 
